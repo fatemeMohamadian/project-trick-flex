@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main1 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(66, 19, 28);
+}
+
+.main1>div {
+    width: 650px;
+    height: 550px;
+    /* border: 2px solid rgb(10, 6, 7); */
+    display: flex;
+}
+
+.main1>div>figure {
+    /* width: 100%; */
+    flex-basis: 5px;
+    border: 2px solid rgb(66, 19, 28);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 400px 400px 400px 400px;
+    flex-grow: 1;
+    cursor: pointer;
+    transition: 1s;
+    overflow: hidden;
+    position: relative;
+}
+
+.main1>div>figure>img {
+    width: 60%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.main1>div>figure :not(:hover) {
+    filter: blur(3px);
+}
+
+.main1>div>figure:hover {
+    flex-grow: 30;
+    border-radius: 30px 30px 30px 30px;
+    width: 200%;
+}
+
+div>figure:hover>figcaption {
+    left: 115px;
+    bottom: 0;
+    /* left: 115px; */
+    width: 60%;
+}
+
+figure>figcaption {
+    width: 140%;
+    position: absolute;
+    top: -100px;
+    left: -50px;
+    background-color: rgba(63, 58, 58, 0.427);
+    color: white;
+    display: flex;
+    font-size: 40px;
+    overflow: hidden;
+    transition: 1s;
+    justify-content: center;
+    align-items: center;
+}
