@@ -6,14 +6,11 @@
 
 - [Demo Project](https://fatememohamadian.github.io/project-trick-flex/)
 
-- Developed by Fatemeh Mohamadian
+ 😉Developed by Fatemeh Mohamadian
 
-- Created - 2024-01-09
+ 📅2024-01-09
 
-- Technologies Used - Html , css 
+ 👩‍💻With By **Html , css** 
 
-- Hooks Used : useState 
-
-- Role - Frontend
-
-- ContactMe :  [instagram](https://www.instagram.com/fateme_mohamadiian.fed) and [linkedin](https://www.linkedin.com/in/fateme-mohamadian-dev0824)
+ 📲📞ContactMe 🔗[instagram](https://www.instagram.com/fateme_mohamadiian.fed)       
+               🔗 [linkedin](https://www.linkedin.com/in/fateme-mohamadian-dev0824)
