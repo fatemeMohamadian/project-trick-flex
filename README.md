@@ -4,7 +4,7 @@
 
 ![Shot 0027](https://github.com/fatemeMohamadian/project-trick-flex/assets/155579918/b5bfb6a8-037b-4b00-87aa-9a3031519cdc)
 
-- [Demo Project](https://fatememohamadian.github.io/project-trick-flex/)
+ 👩‍💻😎[Demo Project](https://fatememohamadian.github.io/project-trick-flex/)
 
  😉Developed by Fatemeh Mohamadian
 
