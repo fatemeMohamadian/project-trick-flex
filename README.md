@@ -1,6 +1,6 @@
 # Project 1-Trick-Flex👩‍💻
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**This Is a Trick about Flex!Thank You For Watching😊**
 
 ![Shot 0027](https://github.com/fatemeMohamadian/project-trick-flex/assets/155579918/b5bfb6a8-037b-4b00-87aa-9a3031519cdc)
 
